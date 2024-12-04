@@ -26,7 +26,8 @@ RMSE: $2,994
 
 **Implementation Details**
 
-Cleaned MarketCheck dataset
+Cleaned MarketCheck dataset [8 Million records]
+Created Training sample: 100K records for optimal training efficiency
 Created 44 predictive features
 Built optimized XGBoost model
 Set up Vertex AI deployment
