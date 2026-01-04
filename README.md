@@ -51,7 +51,6 @@ Combined MSRP (0.020)
 Version (0.019)
 Country (0.018)
 
-<img width="600" alt="Screenshot 2024-12-04 at 10 45 58 AM" src="https://github.com/user-attachments/assets/8e341f2c-97d7-4de5-b142-82dd05f95f1c">
 
 
 **Performance Visualization**
